@@ -9,3 +9,5 @@ ctrl + ~ = open terminal
 ctrl + S = save file
 
 ctrl + B = close/open left column
+
+TWLC 
